@@ -1,0 +1,7 @@
+<wpml-config>
+	<admin-texts>
+		<key name="theme_mods_uppercase">
+			<key name="translate_mod" />
+		</key>
+	</admin-texts>
+</wpml-config>
